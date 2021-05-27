@@ -1,0 +1,8 @@
+.example-card {
+  max-width: 400px;
+}
+
+.example-header-image {
+  background-image: url('https://miro.medium.com/max/1400/1*_bfBYAoHLR3WsLWhLenw0A.jpeg');
+  background-size: cover;
+}
